@@ -134,7 +134,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 12,
+          "SelectedChildIndex": 10,
           "Children": [
             {
               "$type": "Document",
@@ -147,8 +147,7 @@
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAAIAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-01-22T09:15:23.504Z",
-              "IsPinned": true,
-              "EditorCaption": ""
+              "IsPinned": true
             },
             {
               "$type": "Bookmark",
@@ -180,15 +179,7 @@
             },
             {
               "$type": "Bookmark",
-              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
-            },
-            {
-              "$type": "Bookmark",
               "Name": "ST:129:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
-            },
-            {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{1c64b9c2-e352-428e-a56d-0ace190b99a6}"
             },
             {
               "$type": "Document",
@@ -219,26 +210,24 @@
               "$type": "Document",
               "DocumentIndex": 5,
               "Title": "frmSanPham.Designer.cs",
-              "DocumentMoniker": "C:\\Users\\TRUONG\\Source\\Repos\\LapTrinhQuanLy_BuoiThucHanh02_LamDucTruong_DTH235802\\QuanLyBanHang\\Forms\\frmSanPham.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\TRUONG\\source\\repos\\LapTrinhQuanLy_BuoiThucHanh02_LamDucTruong_DTH235802\\QuanLyBanHang\\Forms\\frmSanPham.Designer.cs",
               "RelativeDocumentMoniker": "QuanLyBanHang\\Forms\\frmSanPham.Designer.cs",
-              "ToolTip": "C:\\Users\\TRUONG\\Source\\Repos\\LapTrinhQuanLy_BuoiThucHanh02_LamDucTruong_DTH235802\\QuanLyBanHang\\Forms\\frmSanPham.Designer.cs",
+              "ToolTip": "C:\\Users\\TRUONG\\source\\repos\\LapTrinhQuanLy_BuoiThucHanh02_LamDucTruong_DTH235802\\QuanLyBanHang\\Forms\\frmSanPham.Designer.cs",
               "RelativeToolTip": "QuanLyBanHang\\Forms\\frmSanPham.Designer.cs",
               "ViewState": "AgIAAJ8BAAAAAAAAAAAQwAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-02-05T06:50:45.123Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-02-05T06:50:45.123Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 7,
               "Title": "frmSanPham.resx",
-              "DocumentMoniker": "C:\\Users\\TRUONG\\Source\\Repos\\LapTrinhQuanLy_BuoiThucHanh02_LamDucTruong_DTH235802\\QuanLyBanHang\\Forms\\frmSanPham.resx",
+              "DocumentMoniker": "C:\\Users\\TRUONG\\source\\repos\\LapTrinhQuanLy_BuoiThucHanh02_LamDucTruong_DTH235802\\QuanLyBanHang\\Forms\\frmSanPham.resx",
               "RelativeDocumentMoniker": "QuanLyBanHang\\Forms\\frmSanPham.resx",
-              "ToolTip": "C:\\Users\\TRUONG\\Source\\Repos\\LapTrinhQuanLy_BuoiThucHanh02_LamDucTruong_DTH235802\\QuanLyBanHang\\Forms\\frmSanPham.resx",
+              "ToolTip": "C:\\Users\\TRUONG\\source\\repos\\LapTrinhQuanLy_BuoiThucHanh02_LamDucTruong_DTH235802\\QuanLyBanHang\\Forms\\frmSanPham.resx",
               "RelativeToolTip": "QuanLyBanHang\\Forms\\frmSanPham.resx",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001005|",
-              "WhenOpened": "2026-02-05T06:50:41.689Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-02-05T06:50:41.689Z"
             },
             {
               "$type": "Document",
@@ -250,8 +239,7 @@
               "RelativeToolTip": "QuanLyBanHang\\Forms\\frmNhanVien.Designer.cs",
               "ViewState": "AgIAAA4AAAAAAAAAAAAAwAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-01-29T08:09:21.399Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-01-29T08:09:21.399Z"
             },
             {
               "$type": "Document",
@@ -263,8 +251,7 @@
               "RelativeToolTip": "QuanLyBanHang\\Forms\\frmKhachHang.Designer.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-01-29T08:04:26.449Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-01-29T08:04:26.449Z"
             },
             {
               "$type": "Document",
@@ -276,8 +263,7 @@
               "RelativeToolTip": "QuanLyBanHang\\Migrations\\20260129075724_KhoiTaoCSDL.cs",
               "ViewState": "AgIAAAgAAAAAAAAAAAAxwAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-01-29T07:57:24.593Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-01-29T07:57:24.593Z"
             },
             {
               "$type": "Document",
@@ -289,8 +275,7 @@
               "RelativeToolTip": "QuanLyBanHang\\.gitattributes",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAASAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
-              "WhenOpened": "2026-01-29T07:57:09.152Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-01-29T07:57:09.152Z"
             },
             {
               "$type": "Document",
@@ -328,8 +313,7 @@
               "RelativeToolTip": "QuanLyBanHang\\Program.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAqAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-01-22T09:08:58.474Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-01-22T09:08:58.474Z"
             },
             {
               "$type": "Document",
@@ -354,8 +338,7 @@
               "RelativeToolTip": "QuanLyBanHang\\Data\\HangSanXuat.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-01-22T07:30:01.711Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-01-22T07:30:01.711Z"
             },
             {
               "$type": "Document",
@@ -380,8 +363,7 @@
               "RelativeToolTip": "QuanLyBanHang\\QuanLyBanHang.csproj",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2026-01-22T08:17:27.438Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-01-22T08:17:27.438Z"
             },
             {
               "$type": "Document",
@@ -406,8 +388,7 @@
               "RelativeToolTip": "QuanLyBanHang\\Data\\QLBHDbContext.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAkAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-01-22T07:49:17.809Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-01-22T07:49:17.809Z"
             },
             {
               "$type": "Document",
@@ -419,8 +400,7 @@
               "RelativeToolTip": "QuanLyBanHang\\Data\\KhachHang.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAABWAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-01-22T07:47:15.86Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-01-22T07:47:15.86Z"
             },
             {
               "$type": "Document",
@@ -432,8 +412,7 @@
               "RelativeToolTip": "QuanLyBanHang\\Data\\HoaDon_ChiTiet.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAA9AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-01-22T07:45:57.69Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-01-22T07:45:57.69Z"
             },
             {
               "$type": "Document",
@@ -445,8 +424,7 @@
               "RelativeToolTip": "QuanLyBanHang\\Data\\HoaDon.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAIBZwBMAAAA/AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-01-22T07:44:17.945Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-01-22T07:44:17.945Z"
             },
             {
               "$type": "Document",
@@ -458,8 +436,7 @@
               "RelativeToolTip": "QuanLyBanHang\\Data\\NhanVien.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-01-22T07:39:41.251Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-01-22T07:39:41.251Z"
             },
             {
               "$type": "Document",
@@ -471,8 +448,7 @@
               "RelativeToolTip": "QuanLyBanHang\\Data\\SanPham.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAACIAAAAFAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-01-22T07:31:40.028Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-01-22T07:31:40.028Z"
             },
             {
               "$type": "Document",
@@ -484,8 +460,7 @@
               "RelativeToolTip": "QuanLyBanHang\\App.config",
               "ViewState": "AgIAAAAAAAAgj6EQXKsqwAQAAAAWAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",
-              "WhenOpened": "2026-01-22T07:10:36.464Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-01-22T07:10:36.464Z"
             },
             {
               "$type": "Document",
@@ -497,8 +472,15 @@
               "RelativeToolTip": "QuanLyBanHang\\Data\\LoaiSanPham.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAABYAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-01-22T07:24:01.589Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-01-22T07:24:01.589Z"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c64b9c2-e352-428e-a56d-0ace190b99a6}"
             },
             {
               "$type": "Document",
@@ -509,8 +491,7 @@
               "ToolTip": "C:\\Users\\TRUONG\\source\\repos\\LapTrinhQuanLy_BuoiThucHanh02_LamDucTruong_DTH235802\\QuanLyBanHang\\Forms\\frmNhanVien.cs [Design]",
               "RelativeToolTip": "QuanLyBanHang\\Forms\\frmNhanVien.cs [Design]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-01-29T07:08:20.872Z",
-              "EditorCaption": " [Design]"
+              "WhenOpened": "2026-01-29T07:08:20.872Z"
             },
             {
               "$type": "Document",
@@ -521,8 +502,7 @@
               "ToolTip": "C:\\Users\\TRUONG\\source\\repos\\LapTrinhQuanLy_BuoiThucHanh02_LamDucTruong_DTH235802\\QuanLyBanHang\\Forms\\frmKhachHang.cs [Design]",
               "RelativeToolTip": "QuanLyBanHang\\Forms\\frmKhachHang.cs [Design]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-01-29T06:38:30.741Z",
-              "EditorCaption": " [Design]"
+              "WhenOpened": "2026-01-29T06:38:30.741Z"
             },
             {
               "$type": "Document",
@@ -533,8 +513,7 @@
               "ToolTip": "C:\\Users\\TRUONG\\source\\repos\\LapTrinhQuanLy_BuoiThucHanh02_LamDucTruong_DTH235802\\QuanLyBanHang\\Form1.cs [Design]",
               "RelativeToolTip": "QuanLyBanHang\\Form1.cs [Design]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-01-22T06:52:54.86Z",
-              "EditorCaption": " [Design]"
+              "WhenOpened": "2026-01-22T06:52:54.86Z"
             },
             {
               "$type": "Document",
@@ -545,8 +524,7 @@
               "ToolTip": "C:\\Users\\TRUONG\\source\\repos\\LapTrinhQuanLy_BuoiThucHanh02_LamDucTruong_DTH235802\\QuanLyBanHang\\Forms\\frmHangSanXuat.cs [Design]",
               "RelativeToolTip": "QuanLyBanHang\\Forms\\frmHangSanXuat.cs [Design]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-01-22T09:19:19.751Z",
-              "EditorCaption": " [Design]"
+              "WhenOpened": "2026-01-22T09:19:19.751Z"
             },
             {
               "$type": "Document",
@@ -557,8 +535,7 @@
               "ToolTip": "C:\\Users\\TRUONG\\source\\repos\\LapTrinhQuanLy_BuoiThucHanh02_LamDucTruong_DTH235802\\QuanLyBanHang\\Forms\\frmLoaiSanPham.cs [Design]",
               "RelativeToolTip": "QuanLyBanHang\\Forms\\frmLoaiSanPham.cs [Design]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-01-22T08:19:02.619Z",
-              "EditorCaption": " [Design]"
+              "WhenOpened": "2026-01-22T08:19:02.619Z"
             },
             {
               "$type": "Document",
@@ -569,8 +546,7 @@
               "ToolTip": "C:\\Users\\TRUONG\\source\\repos\\LapTrinhQuanLy_BuoiThucHanh02_LamDucTruong_DTH235802\\QuanLyBanHang\\Form1.resx",
               "RelativeToolTip": "QuanLyBanHang\\Form1.resx",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001005|",
-              "WhenOpened": "2026-01-22T07:56:54.157Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-01-22T07:56:54.157Z"
             }
           ]
         }
