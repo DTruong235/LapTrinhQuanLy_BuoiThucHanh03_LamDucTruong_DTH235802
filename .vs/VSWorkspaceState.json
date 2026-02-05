@@ -2,9 +2,7 @@
   "ExpandedNodes": [
     "",
     "\\QuanLyBanHang",
-    "\\QuanLyBanHang\\Data",
-    "\\QuanLyBanHang\\Forms",
-    "\\QuanLyBanHang\\Migrations"
+    "\\QuanLyBanHang\\Forms"
   ],
   "SelectedNode": "\\QuanLyBanHang\\Forms\\frmNhanVien.cs",
   "PreviewInSolutionExplorer": false
